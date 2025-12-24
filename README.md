@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend devlopment 
+
 
 
 ## 🌐 Socials:
